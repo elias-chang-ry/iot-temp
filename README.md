@@ -1,7 +1,7 @@
-kapitan-intuition-elias
+IOT Temp EDA
 ==============================
 
-Kapitan intuition
+Learning to do time-series EDA with IOT Temp EDA
 
 Project Organization
 ------------
